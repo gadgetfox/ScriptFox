@@ -14,6 +14,8 @@ import javax.swing.JTextArea;
 import javax.swing.SwingUtilities;
 
 public class GUI implements Runnable {
+	
+	//primary class and code for the applications GUI interface
     private JTextArea output;
     private JScrollPane scrollPane;
 
